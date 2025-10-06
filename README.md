@@ -1,3 +1,6 @@
+
+<img width="461" height="848" alt="image" src="https://github.com/user-attachments/assets/59589233-d2d0-42f8-b48a-1651ffb9c9e6" />
+
 # al_crosshair - Advanced Crosshair System for FiveM
 
 **Copyright (c) 2025 DevAL - ALKiS**
