@@ -1,4 +1,4 @@
-[[Watch the video](https://www.youtube.com/watch?v=8GTyGc4x_Ao)
+## [Watch the video](https://www.youtube.com/watch?v=8GTyGc4x_Ao)
 
 <img width="461" height="848" alt="image" src="https://github.com/user-attachments/assets/59589233-d2d0-42f8-b48a-1651ffb9c9e6" />
 
